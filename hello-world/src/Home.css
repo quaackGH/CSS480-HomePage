@@ -14,8 +14,11 @@
     margin: 0 auto; 
     margin-top: 20px;
     width: 300px;
-    height: auto;
+    height: 300px; 
+    border-radius: 50%; 
+    overflow: hidden;
 }
+
 
 .Home h3 {
     font-size: 18px;
