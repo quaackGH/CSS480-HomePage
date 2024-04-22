@@ -10,7 +10,7 @@ export function NavBar() {
             if (event.ctrlKey && event.key === 'ArrowRight') {
                 navigate('/things-to-read');
             } else if (event.ctrlKey && event.key === 'ArrowLeft') {
-                navigate('/');
+                navigate('/CSS480-HomePage/');
             }
         };
 
@@ -24,7 +24,7 @@ export function NavBar() {
     return (
         <nav>
             <ul>
-                <li><Link to="/" tabIndex="0">Home</Link></li>
+                <li><Link to="/CSS480-HomePage/" tabIndex="0">Home</Link></li>
                 <li><Link to="/things-to-read" tabIndex="0">Things to Read</Link></li>
             </ul>
         </nav>

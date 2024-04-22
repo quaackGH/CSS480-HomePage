@@ -9,7 +9,7 @@ function App() {
     <Router>
       <NavBar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/CSS480-HomePage/" element={<Home />} />
         <Route path="/things-to-read" element={<ThingsToRead />} />
       </Routes>
     </Router>
