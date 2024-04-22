@@ -1,0 +1,34 @@
+.container {
+    background-color: #ebebeb; 
+    padding: 20px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 24px;
+    color: #7d3c98; 
+}
+
+.links-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.links-container a {
+    display: block;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #c7a3e0;
+    text-decoration: none;
+    color: #333;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.links-container a:hover {
+    background-color: #9c6ec3;
+}

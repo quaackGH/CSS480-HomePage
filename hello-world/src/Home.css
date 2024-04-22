@@ -1,0 +1,47 @@
+.Home {
+    background-color: #ebebeb;
+    padding: 20px;
+    text-align: center; 
+}
+
+.Home h1 {
+    font-size: 28px;
+    color: #7d3c98; 
+}
+
+.Home img {
+    display: block;
+    margin: 0 auto; 
+    margin-top: 20px;
+    width: 300px;
+    height: auto;
+}
+
+.Home h3 {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.Home ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Home li {
+    margin-top: 10px;
+}
+
+.Home button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #7d3c98;
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.Home button:hover {
+    background-color: #4e247a;
+}
