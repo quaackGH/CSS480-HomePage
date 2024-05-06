@@ -21,14 +21,14 @@
     width: 300px;
     padding: 10px;
     margin-bottom: 10px;
-    background-color: #c7a3e0;
+    background-color: #6a0dad;
     text-decoration: none;
-    color: #333;
+    color: #fff;
     border-radius: 5px;
     text-align: center;
     transition: background-color 0.3s ease;
 }
 
 .links-container a:hover {
-    background-color: #9c6ec3;
+    background-color: #8647c9;
 }

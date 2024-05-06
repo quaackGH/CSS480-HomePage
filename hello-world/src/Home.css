@@ -37,7 +37,7 @@
 .Home button {
     padding: 10px 20px;
     margin-top: 20px;
-    background-color: #7d3c98;
+    background-color: #6a0dad;
     color: #fff; 
     border: none;
     border-radius: 5px;
@@ -46,5 +46,5 @@
 }
 
 .Home button:hover {
-    background-color: #4e247a;
+    background-color: #8647c9;
 }
