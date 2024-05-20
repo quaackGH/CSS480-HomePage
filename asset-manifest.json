@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/CSS480-HomePage/static/css/main.e8d32901.css",
-    "main.js": "/CSS480-HomePage/static/js/main.cc9b9e0a.js",
+    "main.css": "/CSS480-HomePage/static/css/main.eff02447.css",
+    "main.js": "/CSS480-HomePage/static/js/main.f069bf54.js",
     "static/js/453.20952338.chunk.js": "/CSS480-HomePage/static/js/453.20952338.chunk.js",
+    "static/media/donoobs.png": "/CSS480-HomePage/static/media/donoobs.9eca4c79b8c8fe06c5de.png",
+    "static/media/40.png": "/CSS480-HomePage/static/media/40.c7e0209a63835e6d4743.png",
+    "static/media/radiant.png": "/CSS480-HomePage/static/media/radiant.93da13007709f6933ac9.png",
+    "static/media/valorant.jpg": "/CSS480-HomePage/static/media/valorant.f4b9a62b9a58ed8f49af.jpg",
     "static/media/duck.jpg": "/CSS480-HomePage/static/media/duck.f4f6593841aa0751db3f.jpg",
     "index.html": "/CSS480-HomePage/index.html",
-    "main.e8d32901.css.map": "/CSS480-HomePage/static/css/main.e8d32901.css.map",
-    "main.cc9b9e0a.js.map": "/CSS480-HomePage/static/js/main.cc9b9e0a.js.map",
+    "main.eff02447.css.map": "/CSS480-HomePage/static/css/main.eff02447.css.map",
+    "main.f069bf54.js.map": "/CSS480-HomePage/static/js/main.f069bf54.js.map",
     "453.20952338.chunk.js.map": "/CSS480-HomePage/static/js/453.20952338.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8d32901.css",
-    "static/js/main.cc9b9e0a.js"
+    "static/css/main.eff02447.css",
+    "static/js/main.f069bf54.js"
   ]
 }
